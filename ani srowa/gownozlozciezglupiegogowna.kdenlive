@@ -1,0 +1,2036 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt root="/home/akechi" producer="main bin" title="Anonymous Submission" version="6.0.0" LC_NUMERIC="pl_PL.UTF-8">
+ <profile sample_aspect_den="1" description="HD 1080p 25 fps" width="1920" display_aspect_den="9" colorspace="709" height="1080" frame_rate_num="25" frame_rate_den="1" display_aspect_num="16" progressive="1" sample_aspect_num="1"/>
+ <producer in="0" title="Anonymous Submission" out="3440" id="1">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:17:16</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Herkules - Ani słowa (Polish) HD.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">325367</property>
+  <property name="meta.attr.0.stream.creation_time.markup">1970-01-01 00:00:00</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">96028</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2015-04-11 19:34:55</property>
+  <property name="meta.attr.1.stream.handler_name.markup">IsoMedia File Produced by Google, 5-11-2011</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2015-04-11 19:34:55</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.frame_rate_num">24000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">7288905</property>
+  <property name="kdenlive:file_hash">ff65d5836c17cbaf2e2488d2938b46eb</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="3">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/martwię się patrząc na ciebie/bosi/bosak.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1379</property>
+  <property name="meta.media.height">910</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">209956</property>
+  <property name="kdenlive:file_hash">18f9e8193b83450f06e1cc49ccd7fe2c</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="5">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/martwię się patrząc na ciebie/bosi/krzysztof_bosak_nczas-1.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1200</property>
+  <property name="meta.media.height">800</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">187109</property>
+  <property name="kdenlive:file_hash">a204dd8c048bd51ae96ed788380ba09c</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="6">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/martwię się patrząc na ciebie/bosi/krzysztof_bosak_nczas-1bezszyjaczek.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1200</property>
+  <property name="meta.media.height">800</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">174148</property>
+  <property name="kdenlive:file_hash">b6bf1757464101b9382ecf3c32974405</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="8">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/martwię się patrząc na ciebie/bosi/krzysztof_bosak.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">683</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:file_size">79112</property>
+  <property name="kdenlive:file_hash">243bb7f432f5decd78bcfaf65ee14866</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="9">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/bosi mordki/4572656-657-323.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">657</property>
+  <property name="meta.media.height">323</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">64224</property>
+  <property name="kdenlive:file_hash">a898c54d1c692cce4a3a93b33894f364</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="10">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/bosi mordki/krzysztof-bosak-w-poznaniu-4-fot.-k.-adamska.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">312992</property>
+  <property name="kdenlive:file_hash">184d247c04080a80486f668fd7f7c66b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="11">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/bosi mordki/z26283068IER,Posel-Konfederacji-fdgdf-Bosak.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">775</property>
+  <property name="meta.media.height">516</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">113487</property>
+  <property name="kdenlive:file_hash">d24420a1691b4ce511f81f98ff27f8e9</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="12">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/bosi mordki/z26283068IER,Posel-Konfederacji-Krzysztof-Bosak.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">864</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">600908</property>
+  <property name="kdenlive:file_hash">7f0f2fee965f1c13787bb3d609f9ae2d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="17">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/bosi mordki/tylko pysiaki/4572656-65gtgtfhf7-323.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">657</property>
+  <property name="meta.media.height">323</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">46720</property>
+  <property name="kdenlive:file_hash">56ca7d7891a8be6fa440fb64dcbafe70</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="18">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/bosi mordki/tylko pysiaki/z26283068IER,Posel-Konfederacji-Krzysztof-Bosak.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">864</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">351661</property>
+  <property name="kdenlive:file_hash">a35fe4e782f2bf2fc4d6a1c198fe5cb0</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="3351" id="19">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:14:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/I Won't Say I'm In Love (Karaoke w No Muse Vocals) - Hercules.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc57.64</property>
+  <property name="meta.attr.major_brand.markup">dash</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">iso6mp41</property>
+  <property name="meta.attr.encoder.markup">Lavf57.56.101</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_hash">66c2272a60f6a899d4c11762f676cc27</property>
+  <property name="kdenlive:file_size">3218213</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="405" id="20">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:16:06</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Get_Low_C_Major.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128187</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-11 21:50:51</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-11 21:50:51</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">1</property>
+  <property name="kdenlive:file_size">267090</property>
+  <property name="kdenlive:file_hash">3e87e7996bbbf6180a8a184a9488d378</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="434" id="21">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:17:10</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Record (online-voice-recorder.com).mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">256000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">556800</property>
+  <property name="kdenlive:file_hash">d7342023c14d9c17a41b180497206a57</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="523" id="22">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:20:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Noise_reduction_only_C_Major_1.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128085</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-12 00:17:21</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-12 00:17:21</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">343598</property>
+  <property name="kdenlive:file_hash">668066c97f2257e20bb862a732fd7712</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="480" id="23">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:19:06</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/output.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">1</property>
+  <property name="meta.media.0.codec.name">pcm_s16le</property>
+  <property name="meta.media.0.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.0.codec.bit_rate">768000</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">1849004</property>
+  <property name="kdenlive:file_hash">ccaeec25b89af588f63aa9890c43cc39</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="507" id="24">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:20:08</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/media-914af8ee.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavf</property>
+  <property name="meta.attr.encoder.markup">Lavf56.26.101</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">488493</property>
+  <property name="kdenlive:file_hash">45d58b5b230b0fdc3c30a6fe427d9a6f</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="519" id="25">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:20:20</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/zdfdfsdf.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">192000</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavf</property>
+  <property name="meta.attr.encoder.markup">Lavf56.26.101</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">499437</property>
+  <property name="kdenlive:file_hash">8cfab63ae608729c7d5a245ad5724b4b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="477" id="26">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:19:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Noise_reduction_only_C_Major_4.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128146</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-12 04:42:07</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-12 04:42:07</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">313679</property>
+  <property name="kdenlive:file_hash">fff6071a21486552a4867c905fc5cd94</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="3342" id="27">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:13:18</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Noise_reduction_only_C_Major_5.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128020</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-12 04:51:42</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-12 04:51:42</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">2169154</property>
+  <property name="kdenlive:file_hash">d1785615b6d5e2e099a273419999d1ec</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="466" id="28">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:18:17</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Super_Vocoder_C_Major.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128001</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-12 07:10:05</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-12 07:10:05</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">306080</property>
+  <property name="kdenlive:file_hash">8f0580b150575a030a174f341c541e7b</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" out="466" id="29">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:18:17</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Super_Vocoder_C_Major.m4a</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128001</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-12 07:10:05</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-12 07:10:05</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">306080</property>
+  <property name="kdenlive:file_hash">8f0580b150575a030a174f341c541e7b</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="488" id="30">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:19:14</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/2__Helium_C_Major.m4a</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">fltp</property>
+  <property name="meta.media.0.codec.sample_rate">48000</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">aac</property>
+  <property name="meta.media.0.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.0.codec.bit_rate">128252</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2020-11-12 14:13:48</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.attr.0.stream.handler_name.markup">SoundHandle</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2020-11-12 14:13:48</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:folderid">3</property>
+  <property name="kdenlive:file_size">320854</property>
+  <property name="kdenlive:file_hash">41a79f6d4ea565eb52ded7230f9733c3</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" out="124" id="32">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/e.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">298094</property>
+  <property name="kdenlive:file_hash">0d5785c4440ce7345a253fa8a6b40fcc</property>
+ </producer>
+ <producer in="0" out="248" id="33">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:09:24</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/f.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">294373</property>
+  <property name="kdenlive:file_hash">c2a974478223ab674cccba11dea12835</property>
+ </producer>
+ <producer in="0" out="144" id="34">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:20</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/ld.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">295823</property>
+  <property name="kdenlive:file_hash">ce348d118bf5aa6fc7a86cddd62aed68</property>
+ </producer>
+ <producer in="0" out="124" id="35">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/silentmb.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">294535</property>
+  <property name="kdenlive:file_hash">519ff19c0a8e72282aff684ad756b60d</property>
+ </producer>
+ <producer in="0" out="124" id="36">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/stch.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">296346</property>
+  <property name="kdenlive:file_hash">fe23debb429ab0f9589a63ad4bea4ede</property>
+ </producer>
+ <producer in="0" out="124" id="37">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/ur.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">294209</property>
+  <property name="kdenlive:file_hash">5450c9b4c1ee3a433b4299d7540b9b54</property>
+ </producer>
+ <producer in="0" out="326" id="38">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:13:02</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/ooo.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">295008</property>
+  <property name="kdenlive:file_hash">fd3640768d05a8c5e293873780310753</property>
+ </producer>
+ <producer in="0" out="249" id="39">
+  <property name="mlt_type">producer</property>
+  <property name="length">250</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/bosimain.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">295184</property>
+  <property name="kdenlive:file_hash">73c6b1e18e586accb6364be7d2d78f77</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="3404" id="40">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:02:16:05</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/herkules-remix.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="meta.attr.TBPM.markup">140</property>
+  <property name="meta.attr.encoded_by.markup">LAME in FL Studio 10</property>
+  <property name="meta.attr.date.markup">2020</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:file_size">2724119</property>
+  <property name="kdenlive:file_hash">9ef62da85c65f7585136188a2c0910c8</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" out="124" id="31">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/aaa.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">293016</property>
+  <property name="kdenlive:file_hash">5e46155fed5d7488e0370acd15af6022</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" out="152" id="45">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:06:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/sadia.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">611655</property>
+  <property name="kdenlive:file_hash">aac7364aec3d7ef0bd03a9a5a2bda91f</property>
+ </producer>
+ <producer in="0" out="124" id="46">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/sadiarla.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">610062</property>
+  <property name="kdenlive:file_hash">e56a1a8df5309b95bffad372954ac2be</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="47">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/sadia2.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">621202</property>
+  <property name="kdenlive:file_hash">dacc6d0e7e5c35f9ec1b105c2c4090b2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" out="134" id="48">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:10</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/bosimain.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1165</property>
+  <property name="meta.media.height">1403</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">4</property>
+  <property name="kdenlive:file_size">295184</property>
+  <property name="kdenlive:file_hash">73c6b1e18e586accb6364be7d2d78f77</property>
+ </producer>
+ <producer in="0" out="124" id="49">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/sadziątko.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">632337</property>
+  <property name="kdenlive:file_hash">19b473e4a31e11d4bbc153c017abeba2</property>
+ </producer>
+ <producer in="0" out="127" id="50">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/smutasek.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">597684</property>
+  <property name="kdenlive:file_hash">31e0618a8ee6f213caffe877ecdc43a0</property>
+ </producer>
+ <producer in="0" out="124" id="51">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/umiarkowanysmutek2.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">609634</property>
+  <property name="kdenlive:file_hash">16bcc027f36ff8759d11774e838c2157</property>
+ </producer>
+ <producer in="0" out="124" id="52">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/umiarkowanysmutek.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">608102</property>
+  <property name="kdenlive:file_hash">e2d70243e27058dd9bb415f4964ef5a4</property>
+ </producer>
+ <producer in="0" out="124" id="53">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/zazenowanieustanie.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">612269</property>
+  <property name="kdenlive:file_hash">9794089f80afdf9d5769bc4fd7cdb272</property>
+ </producer>
+ <producer in="0" out="124" id="54">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/zazenowanie.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">5</property>
+  <property name="kdenlive:file_size">635432</property>
+  <property name="kdenlive:file_hash">cbd2f371239e0061baf627b6b7b27da8</property>
+ </producer>
+ <producer in="0" out="124" id="57">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/kawaiii.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:file_size">639703</property>
+  <property name="kdenlive:file_hash">a60336ba781be3498d95bdb6f482060d</property>
+ </producer>
+ <producer in="0" out="124" id="58">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/bosimain.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:file_size">617829</property>
+  <property name="kdenlive:file_hash">8043da1eb06fa4bcc06536ec65bf4a85</property>
+ </producer>
+ <producer in="0" out="170" id="59">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:00:06:21</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/wkurw.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:file_size">609972</property>
+  <property name="kdenlive:file_hash">b82968c0bf837275bf5cb9f5bfa6a5c7</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="124" id="60">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:00</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/woof woof.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:file_size">603193</property>
+  <property name="kdenlive:file_hash">59af225462cb83365a2fd24a28ec47c8</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="127" id="61">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:05:03</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/ruchome pychy/pychy pychy 2/luv.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1366</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:file_size">621201</property>
+  <property name="kdenlive:file_hash">84c405294706454f70db50a4e0a93ad2</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer in="0" title="Anonymous Submission" out="161" id="62">
+  <property name="mlt_type">mlt_producer</property>
+  <property name="length">00:00:06:12</property>
+  <property name="eof">pause</property>
+  <property name="resource">hola hola panie jarosławie/ani srowa/janusz hercules mikke.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="loop">1</property>
+  <property name="meta.media.width">1529</property>
+  <property name="meta.media.height">1915</property>
+  <property name="mlt_service">pixbuf</property>
+  <property name="kdenlive:folderid">6</property>
+  <property name="kdenlive:file_size">696638</property>
+  <property name="kdenlive:file_hash">fd0f6f5161861cf7c8fd2e47cf82006e</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist kdenlive:customeffects="&lt;customeffects/>&#xa;" id="main bin">
+  <property name="kdenlive:customeffects">&lt;customeffects/>
+</property>
+  <property name="kdenlive:docproperties.documentid">1605120323579</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">15.12.3</property>
+  <property name="kdenlive:docproperties.position">2</property>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_25</property>
+  <property name="kdenlive:docproperties.projectfolder">kdenlive2222222222222222T</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-s 640x480 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.version">0.91</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.zonein">2704</property>
+  <property name="kdenlive:docproperties.zoneout">2706</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups">&lt;groups/>
+</property>
+  <property name="kdenlive:folder.-1.1">pysiaki bosiaki</property>
+  <property name="kdenlive:folder.-1.3">muza</property>
+  <property name="kdenlive:folder.3.4">pychy boskiej mychy</property>
+  <property name="kdenlive:folder.4.5">pychotki2</property>
+  <property name="kdenlive:folder.-1.6">rysopaski</property>
+  <property name="xml_retain">1</property>
+  <entry producer="1" in="0" out="3440"/>
+  <entry producer="3" in="0" out="124"/>
+  <entry producer="5" in="0" out="124"/>
+  <entry producer="6" in="0" out="124"/>
+  <entry producer="8" in="0" out="124"/>
+  <entry producer="9" in="0" out="124"/>
+  <entry producer="10" in="0" out="124"/>
+  <entry producer="11" in="0" out="124"/>
+  <entry producer="12" in="0" out="124"/>
+  <entry producer="17" in="0" out="124"/>
+  <entry producer="18" in="0" out="124"/>
+  <entry producer="19" in="0" out="3351"/>
+  <entry producer="20" in="0" out="405"/>
+  <entry producer="21" in="0" out="434"/>
+  <entry producer="22" in="0" out="523"/>
+  <entry producer="23" in="0" out="480"/>
+  <entry producer="24" in="0" out="507"/>
+  <entry producer="25" in="0" out="519"/>
+  <entry producer="26" in="0" out="477"/>
+  <entry producer="27" in="0" out="3342"/>
+  <entry producer="28" in="0" out="466"/>
+  <entry producer="29" in="0" out="466"/>
+  <entry producer="30" in="0" out="488"/>
+  <entry producer="32" in="0" out="124"/>
+  <entry producer="33" in="0" out="124"/>
+  <entry producer="34" in="0" out="124"/>
+  <entry producer="35" in="0" out="124"/>
+  <entry producer="36" in="0" out="124"/>
+  <entry producer="37" in="0" out="124"/>
+  <entry producer="38" in="0" out="124"/>
+  <entry producer="39" in="0" out="124"/>
+  <entry producer="40" in="0" out="3404"/>
+  <entry producer="31" in="0" out="124"/>
+  <entry producer="45" in="0" out="124"/>
+  <entry producer="46" in="0" out="124"/>
+  <entry producer="47" in="0" out="124"/>
+  <entry producer="48" in="0" out="124"/>
+  <entry producer="49" in="0" out="124"/>
+  <entry producer="50" in="0" out="124"/>
+  <entry producer="51" in="0" out="124"/>
+  <entry producer="52" in="0" out="124"/>
+  <entry producer="53" in="0" out="124"/>
+  <entry producer="54" in="0" out="124"/>
+  <entry producer="57" in="0" out="124"/>
+  <entry producer="58" in="0" out="124"/>
+  <entry producer="59" in="0" out="124"/>
+  <entry producer="60" in="0" out="124"/>
+  <entry producer="61" in="0" out="124"/>
+  <entry producer="62" in="0" out="124"/>
+ </playlist>
+ <producer in="0" out="500" id="black">
+  <property name="mlt_type">producer</property>
+  <property name="length">15000</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+ </producer>
+ <playlist id="black_track">
+  <entry producer="black" in="0" out="3440"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="269"/>
+  <entry producer="36" in="81" out="88"/>
+  <blank length="8"/>
+  <entry producer="32" in="79" out="83"/>
+  <blank length="2365"/>
+  <entry producer="34" in="2" out="144"/>
+ </playlist>
+ <playlist id="playlist0">
+  <property name="kdenlive:track_name">Video 2</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+ </playlist>
+ <producer in="0" title="Anonymous Submission" out="3404" id="40_playlist2">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:02:16:05</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/herkules-remix.mp3</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="kdenlive:file_size">2724119</property>
+  <property name="kdenlive:file_hash">9ef62da85c65f7585136188a2c0910c8</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">1</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16p</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">mp3</property>
+  <property name="meta.media.0.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.0.codec.bit_rate">160000</property>
+  <property name="meta.attr.TBPM.markup">140</property>
+  <property name="meta.attr.encoded_by.markup">LAME in FL Studio 10</property>
+  <property name="meta.attr.date.markup">2020</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+  <blank length="8"/>
+  <entry producer="40_playlist2" in="0" out="2646"/>
+  <entry producer="40_playlist2" in="2651" out="3404"/>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 3</property>
+  <blank length="1488"/>
+  <entry producer="32" in="79" out="83"/>
+  <entry producer="33" in="119" out="122"/>
+  <entry producer="34" in="118" out="124"/>
+  <entry producer="37" in="75" out="77"/>
+  <entry producer="36" in="81" out="88"/>
+  <entry producer="35" in="86" out="90"/>
+  <entry producer="38" in="117" out="121"/>
+ </playlist>
+ <producer in="0" title="Anonymous Submission" out="3440" id="1_playlist4">
+  <property name="mlt_type">producer</property>
+  <property name="length">00:02:17:16</property>
+  <property name="eof">pause</property>
+  <property name="resource">Downloads/niedawno zapisane gówna/Herkules - Ani słowa (Polish) HD.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:file_size">7288905</property>
+  <property name="kdenlive:file_hash">ff65d5836c17cbaf2e2488d2938b46eb</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">325367</property>
+  <property name="meta.attr.0.stream.creation_time.markup">1970-01-01 00:00:00</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">96028</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2015-04-11 19:34:55</property>
+  <property name="meta.attr.1.stream.handler_name.markup">IsoMedia File Produced by Google, 5-11-2011</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">isommp42</property>
+  <property name="meta.attr.creation_time.markup">2015-04-11 19:34:55</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">24000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+  <entry producer="1_playlist4" in="0" out="3440"/>
+ </playlist>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 5</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+  <blank length="2178"/>
+  <entry producer="62" in="2" out="37"/>
+  <entry producer="62" in="2" out="159"/>
+ </playlist>
+ <playlist id="playlist6">
+  <property name="kdenlive:track_name">Video 1</property>
+  <property name="kdenlive:locked_track">0</property>
+  <property name="kdenlive:composite">1</property>
+  <entry producer="45" in="116" out="137"/>
+  <entry producer="45" in="104" out="110"/>
+  <blank length="14"/>
+  <entry producer="39" in="86" out="111"/>
+  <entry producer="37" in="80" out="85"/>
+  <entry producer="33" in="120" out="121"/>
+  <entry producer="38" in="122" out="128"/>
+  <entry producer="32" in="83" out="86"/>
+  <entry producer="34" in="116" out="119"/>
+  <entry producer="33" in="0" out="2"/>
+  <entry producer="31" in="72" out="76"/>
+  <entry producer="33" in="124" out="127"/>
+  <entry producer="37" in="73" out="77"/>
+  <entry producer="38" in="122" out="129"/>
+  <entry producer="33" in="124" out="129"/>
+  <entry producer="34" in="114" out="130"/>
+  <entry producer="36" in="78" out="88"/>
+  <entry producer="39" in="86" out="141"/>
+  <entry producer="37" in="73" out="78"/>
+  <entry producer="33" in="116" out="122"/>
+  <entry producer="38" in="117" out="121"/>
+  <entry producer="31" in="71" out="75"/>
+  <entry producer="34" in="113" out="122"/>
+  <entry producer="38" in="115" out="119"/>
+  <entry producer="37" in="75" out="78"/>
+  <entry producer="34" in="114" out="117"/>
+  <entry producer="36" in="76" out="84"/>
+  <entry producer="38" in="113" out="126"/>
+  <entry producer="38" in="113" out="136"/>
+  <entry producer="39" in="76" out="91"/>
+  <entry producer="31" in="67" out="70"/>
+  <entry producer="38" in="117" out="123"/>
+  <entry producer="31" in="68" out="70"/>
+  <entry producer="33" in="109" out="109"/>
+  <entry producer="32" in="64" out="71"/>
+  <entry producer="33" in="109" out="110"/>
+  <entry producer="38" in="110" out="112"/>
+  <entry producer="32" in="71" out="72"/>
+  <entry producer="33" in="112" out="115"/>
+  <entry producer="37" in="66" out="72"/>
+  <entry producer="32" in="70" out="74"/>
+  <entry producer="34" in="105" out="108"/>
+  <entry producer="32" in="64" out="68"/>
+  <entry producer="37" in="66" out="75"/>
+  <entry producer="32" in="64" out="67"/>
+  <entry producer="34" in="105" out="110"/>
+  <blank length="14"/>
+  <entry producer="48" in="108" out="112"/>
+  <entry producer="33" in="121" out="124"/>
+  <entry producer="31" in="69" out="71"/>
+  <entry producer="32" in="79" out="80"/>
+  <entry producer="33" in="121" out="122"/>
+  <entry producer="38" in="114" out="116"/>
+  <entry producer="31" in="67" out="74"/>
+  <entry producer="37" in="77" out="77"/>
+  <entry producer="38" in="113" out="116"/>
+  <entry producer="33" in="113" out="114"/>
+  <entry producer="38" in="111" out="116"/>
+  <entry producer="37" in="75" out="78"/>
+  <blank length="133"/>
+  <entry producer="49" in="0" out="39"/>
+  <blank length="59"/>
+  <entry producer="50" in="0" out="30"/>
+  <blank length="15"/>
+  <entry producer="48" in="0" out="51"/>
+  <entry producer="48" in="0" out="47"/>
+  <entry producer="59" in="125" out="169"/>
+  <blank length="43"/>
+  <entry producer="34" in="113" out="116"/>
+  <entry producer="33" in="118" out="132"/>
+  <entry producer="32" in="80" out="84"/>
+  <entry producer="34" in="114" out="119"/>
+  <entry producer="33" in="119" out="125"/>
+  <entry producer="31" in="71" out="75"/>
+  <entry producer="33" in="124" out="126"/>
+  <entry producer="31" in="71" out="75"/>
+  <entry producer="38" in="117" out="117"/>
+  <blank length="119"/>
+  <entry producer="48" in="108" out="132"/>
+  <entry producer="33" in="118" out="124"/>
+  <entry producer="31" in="69" out="72"/>
+  <entry producer="32" in="71" out="77"/>
+  <entry producer="33" in="113" out="118"/>
+  <entry producer="32" in="73" out="75"/>
+  <blank length="146"/>
+  <entry producer="31" in="5" out="92"/>
+  <entry producer="35" in="86" out="108"/>
+  <entry producer="33" in="119" out="120"/>
+  <entry producer="32" in="79" out="83"/>
+  <entry producer="34" in="118" out="122"/>
+  <entry producer="33" in="119" out="119"/>
+  <entry producer="31" in="75" out="78"/>
+  <entry producer="33" in="119" out="121"/>
+  <entry producer="34" in="120" out="123"/>
+  <entry producer="32" in="79" out="84"/>
+  <entry producer="34" in="119" out="122"/>
+  <entry producer="32" in="79" out="82"/>
+  <entry producer="31" in="69" out="75"/>
+  <entry producer="33" in="119" out="142"/>
+  <blank length="42"/>
+  <entry producer="31" in="85" out="88"/>
+  <entry producer="31" in="77" out="83"/>
+  <entry producer="33" in="0" out="2"/>
+  <entry producer="31" in="76" out="77"/>
+  <entry producer="33" in="119" out="121"/>
+  <entry producer="32" in="58" out="64"/>
+  <entry producer="34" in="114" out="120"/>
+  <entry producer="33" in="2" out="2"/>
+  <entry producer="32" in="80" out="83"/>
+  <entry producer="37" in="75" out="82"/>
+  <entry producer="33" in="3" out="4"/>
+  <entry producer="38" in="122" out="140"/>
+  <entry producer="39" in="124" out="147"/>
+  <entry producer="38" in="141" out="146"/>
+  <entry producer="31" in="84" out="87"/>
+  <entry producer="33" in="121" out="122"/>
+  <entry producer="32" in="76" out="78"/>
+  <entry producer="33" in="122" out="124"/>
+  <entry producer="37" in="73" out="77"/>
+  <entry producer="32" in="76" out="77"/>
+  <entry producer="33" in="121" out="123"/>
+  <entry producer="37" in="75" out="77"/>
+  <entry producer="33" in="121" out="123"/>
+  <entry producer="31" in="87" out="94"/>
+  <entry producer="33" in="123" out="127"/>
+  <entry producer="34" in="116" out="124"/>
+  <entry producer="33" in="119" out="123"/>
+  <entry producer="32" in="76" out="79"/>
+  <entry producer="31" in="88" out="100"/>
+  <entry producer="34" in="122" out="123"/>
+  <entry producer="37" in="74" out="76"/>
+  <entry producer="33" in="118" out="206"/>
+  <blank length="107"/>
+  <entry producer="39" in="0" out="43"/>
+  <entry producer="39" in="0" out="29"/>
+  <entry producer="57" in="0" out="15"/>
+  <blank length="77"/>
+  <entry producer="39" in="6" out="35"/>
+  <entry producer="39" in="6" out="86"/>
+  <blank length="5"/>
+  <entry producer="58" in="5" out="16"/>
+  <entry producer="60" in="0" out="7"/>
+  <entry producer="60" in="0" out="16"/>
+  <blank length="19"/>
+  <entry producer="61" in="2" out="66"/>
+  <entry producer="39" in="4" out="96"/>
+  <blank length="111"/>
+  <entry producer="39" in="7" out="89"/>
+  <blank length="4"/>
+  <entry producer="39" in="4" out="103"/>
+ </playlist>
+ <tractor in="0" title="Anonymous Submission" global_feed="1" out="3440" id="maintractor">
+  <track producer="black_track"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist0"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3"/>
+  <track producer="playlist4" hide="audio"/>
+  <track producer="playlist5"/>
+  <track producer="playlist6"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">7</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+   <property name="combine">1</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">6</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="internal_added">237</property>
+   <property name="combine">1</property>
+  </transition>
+  <transition in="2214" out="2371" id="transition7">
+   <property name="a_track">5</property>
+   <property name="b_track">6</property>
+   <property name="distort">0</property>
+   <property name="geometry">688/-72:1299x796:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">17,2</property>
+   <property name="rotate_y">7,1</property>
+   <property name="rotate_z">169,3</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="43" out="103" id="transition8">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=792/344:833x410:100;3=782/346:833x410:100;9=760/349:833x410:100;13=737/344:833x410:100;16=719/336:833x410:100;21=706/338:833x410:100;26=648/344:833x410:100;30=624/349:833x410:100;38=594/329:833x410:100;39=599/329:833x410:100;46=581/322:833x410:100;52=562/325:833x410:100;55=552/329:833x410:100;60=516/337:833x410:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;3=0;9=0;13=0;16=0;21=0;26=0;30=0;36=0;38=0;39=0;46=1;53=-7,8;55=-7,8;56=-7,8;57=-4,9;58=-4,9</property>
+   <property name="rotate_y">0;3=0;9=0;13=0;16=0;21=0;26=0;30=0;36=0;38=0;39=0;46=0;53=0;55=0;56=0;57=0;58=0</property>
+   <property name="rotate_z">180;3=180;9=180;13=180;16=180;21=180;26=180;30=180;36=161,4;38=161,4;39=161,4;46=180;53=180;55=180;56=180;57=180;58=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="104" out="275" id="transition9">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=474/-303:2077x1202:100;4=400/-293:2077x1202:100;13=341/-303:2077x1202:100;25=123/-305:2077x1202:100;28=95/-295:2077x1202:100;32=73/-291:2077x1202:100;37=73/-301:2077x1202:100;57=103/-271:2077x1202:100;59=99/-253:2077x1202:100;73=127/-267:2077x1202:100;88=127/-279:2077x1202:100;93=68/-273:2077x1202:100;97=54/-265:2077x1202:100;102=45/-263:2077x1202:100;110=28/-259:2077x1202:100;113=6/-240:2077x1202:100;116=-14/-210:2077x1202:100;120=-24/-205:2077x1202:100;125=-41/-222:2077x1202:100;134=-48/-252:2077x1202:100;137=-24/-257:2077x1202:100;138=-12/-242:2077x1202:100;139=88/-245:2077x1202:100;141=122/-256:2077x1202:100;146=143/-274:2077x1202:100;149=175/-293:2077x1202:100;156=178/-315:2077x1202:100;160=218/-295:2077x1202:100;165=321/-276:2077x1202:100;171=528/-219:2147x1238:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;4=0;13=-9,3;25=-7,8;28=-5;32=-1,4;37=3,1;57=-4,7;59=0;73=0;88=1,5;93=4,5;97=0;102=5,3;110=10,4;113=10,4;116=20,9;120=20,9;125=7;134=7;137=7;138=7;139=7;141=7;146=0;149=-14,9;156=-13,7;160=-12,9;165=-12,9;168=-12,9;170=9</property>
+   <property name="rotate_y">0;4=0;13=0;25=0;28=0;32=0;37=0;57=0;59=0;73=0;88=0;93=0;97=0;102=0;110=0;113=0;116=0;120=0;125=0;134=0;137=0;138=0;139=0;141=0;146=0;149=0;156=0;160=0;165=0;168=0;170=0</property>
+   <property name="rotate_z">180;4=180;13=180;25=180;28=180;32=180;37=180;57=180;59=180;73=180;88=180;93=180;97=180;102=180;110=180;113=180;116=180;120=180;125=180;134=180;137=180;138=180;139=1;141=1;146=0;149=0;156=0;160=0;165=0;168=0;170=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="276" out="390" id="transition10">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-696/259:1575x885:100;7=-653/295:1575x885:100;8=-650/274:1589x900:100;12=-625/240:1649x960:100;15=-674/184:1819x1072:100;22=-628/191:1819x1072:100;24=-650/186:1857x1100:100;25=-619/199:1857x1100:100;29=-581/197:1857x1100:100;41=-547/180:1857x1100:100;43=-570/144:1923x1195:100;46=-595/115:2043x1355:100;49=-603/117:2122x1423:100;51=-585/120:2122x1423:100;53=-581/112:2193x1500:100;55=-588/92:2270x1557:100;59=-565/-8:2425x1671:100;61=-542/-51:2507x1741:100;67=-540/-193:2720x1944:100;73=-489/-224:2720x1944:100;76=-490/-293:2798x2074:100;77=-454/-288:2798x2074:100;79=-440/-276:2798x2074:100;83=-370/-281:2798x2074:100;90=-204/-283:2798x2074:100;97=-452/-179:3841x2160:100;102=-316/-122:3841x2160:100;105=-264/-118:4033x2269:100;108=-139/-95:4033x2269:100;122=100/-100:4033x2269:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;7=-7;8=-16,9;12=-9;15=3;22=0;24=0;25=0;29=0;41=0;43=0;46=2,4;49=11,8;51=7,1;53=16,6;55=14,2;59=9,5;61=-2,4;67=-11,8;73=-14,2;76=-21,3;77=-21,3;79=-21,3;83=-21,3;90=-21,3;97=7,1;102=4,7;105=4,7;108=4,7;112=4,7;119=4,7</property>
+   <property name="rotate_y">0;7=0;8=0;12=0;15=0;22=0;24=0;25=0;29=0;41=0;43=0;46=0;49=0;51=0;53=0;55=0;59=0;61=0;67=0;73=0;76=0;77=0;79=0;83=0;90=0;97=0;102=0;105=0;108=0;112=0;119=0</property>
+   <property name="rotate_z">0;7=0;8=0;12=0;15=0;22=0;24=0;25=0;29=0;41=0;43=0;46=0;49=0;51=0;53=0;55=0;59=0;61=0;67=0;73=0;76=0;77=0;79=0;83=0;90=0;97=0;102=0;105=0;108=0;112=0;119=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="405" out="448" id="transition12">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-386/-449:2577x1763:100;2=-339/-454:2577x1763:100;5=-284/-449:2577x1763:100;9=-244/-463:2577x1763:100;16=-234/-478:2577x1763:100;22=-312/-464:2604x1794:100;23=-295/-457:2604x1794:100;24=-509/-451:2604x1794:100;29=-522/-424:2604x1794:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;2=0;5=0;9=0;16=-7,4;22=-7,4;23=-7,4;24=-7,4;29=1,5</property>
+   <property name="rotate_y">0;2=0;5=0;9=0;16=0;22=0;23=0;24=0;29=0</property>
+   <property name="rotate_z">0;2=0;5=0;9=0;16=0;22=0;23=0;24=180;29=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="582" out="621" id="transition13">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=269/61:1276x773:100;4=264/32:1276x773:100;9=237/-6:1276x773:100;13=244/-23:1276x773:100;15=247/17:1276x773:100;19=266/-3:1276x773:100;22=314/-23:1276x773:100;25=302/129:1276x773:100;29=262/76:1276x773:100;35=262/57:1276x773:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-4,5;4=-4,5;9=-10,4;13=-10,4;15=-10,4;19=-4,5;22=-4,5;25=-4,5;29=7,4;35=-4,5</property>
+   <property name="rotate_y">0;4=0;9=0;13=0;15=0;19=0;22=0;25=0;29=0;35=0</property>
+   <property name="rotate_z">0;4=0;9=0;13=0;15=0;19=0;22=0;25=0;29=0;35=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="681" out="711" id="transition14">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=572/147:1289x842:100;4=489/170:1289x842:100;6=439/172:1289x842:100;11=328/129:1289x842:100;15=289/84:1289x842:100;24=268/37:1289x842:100;28=244/-23:1289x842:100;30=244/-56:1289x842:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">1,5;4=-1,5;6=-1,5;11=4,5;15=7,4;24=-4,5;28=-22,3;30=-22,3</property>
+   <property name="rotate_y">0;4=0;6=0;11=0;15=0;24=0;28=0;30=0</property>
+   <property name="rotate_z">0;4=0;6=0;11=0;15=0;24=0;28=0;30=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="727" out="778" id="transition15">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=1417/496:1104x621:100;4=1264/453:1104x621:100;7=1161/421:1104x621:100;11=1026/389:1104x621:100;17=895/357:1104x621:100;29=875/348:1104x621:100;36=1077/350:726x621:100;42=1181/414:726x621:100;48=1220/478:726x621:100;50=1223/478:726x621:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-31,2;4=-32,9;7=-34,2;11=-35,6;17=-36,8;29=-30,8;36=-28,8;42=-12,9;48=12,4;50=20,9</property>
+   <property name="rotate_y">0;4=0;7=0;11=0;17=0;29=0;36=0;42=0;48=0;50=0</property>
+   <property name="rotate_z">0;4=0;7=0;11=0;17=0;29=0;36=0;42=0;48=0;50=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="915" out="965" id="transition16">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-29/-155:1926x1119:100;5=16/-145:1926x1119:100;7=87/-146:1926x1119:100;10=162/-160:1926x1119:100;14=219/-158:1926x1119:100;17=262/-176:1926x1119:100;22=309/-199:1994x1153:100;24=381/-181:1994x1153:100;28=460/-174:1994x1153:100;33=562/-166:1994x1153:100;38=679/-203:2042x1190:100;41=747/-213:2067x1224:100;45=850/-194:2067x1224:100;50=899/-156:2067x1224:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-10,4;5=-1,5;7=1,5;10=1,5;14=4,5;17=4,5;22=-4,5;24=1,5;28=1,5;33=-10,4;38=-10,4;41=-10,4;45=-19,3;50=-4,5</property>
+   <property name="rotate_y">0;5=0;7=0;10=0;14=0;17=0;22=0;24=0;28=0;33=0;38=0;41=0;45=0;50=0</property>
+   <property name="rotate_z">4,5;5=4,5;7=4,5;10=4,5;14=4,5;17=4,5;22=4,5;24=4,5;28=4,5;33=4,5;38=4,5;41=4,5;45=4,5;50=4,5</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1085" out="1136" id="transition17">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-643/-93:2818x1585:100;5=-609/-131:2844x1600:100;6=-608/-138:2853x1605:100;11=-562/-147:2902x1632:100;13=-549/-126:2940x1654:100;15=-522/-128:2979x1676:100;17=-512/-124:3011x1694:100;21=-414/-216:3076x1730:100;25=-340/-245:3076x1730:100;32=-399/-378:3308x1861:100;36=-372/-348:3354x1886:100;37=-584/-368:3366x1893:100;38=-597/-363:3366x1893:100;41=-554/-329:3366x1893:100;44=-595/-326:3462x1947:100;47=-585/-343:3558x2001:100;51=-585/-356:3558x2001:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">16,4;5=10,4;6=9,9;11=-4,5;13=1,5;15=7,4;17=4,5;21=7,4;25=7,4;32=-13,4;36=-2,6;37=0;38=0;41=7,4;44=-4,5;47=7,4;51=-1,5</property>
+   <property name="rotate_y">0;5=0;6=0;11=0;13=0;15=0;17=0;21=0;25=0;32=0;36=0;37=0;38=0;41=0;44=0;47=0;51=0</property>
+   <property name="rotate_z">0;5=0;6=0;11=0;13=0;15=0;17=0;21=0;25=0;32=0;36=0;37=180;38=180;41=180;44=180;47=180;51=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1283" out="1370" id="transition18">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=1198/740:105x91:100;11=1216/737:104x90:100;28=1221/738:103x89:100;43=1228/728:110x98:100;70=1263/728:110x96:100;79=1278/726:110x96:100;83=1278/725:110x96:100;87=1282/726:110x96:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;11=0;28=0;43=0;70=0;79=0;83=0;87=0</property>
+   <property name="rotate_y">0;11=0;28=0;43=0;70=0;79=0;83=0;87=0</property>
+   <property name="rotate_z">0;11=0;28=0;43=0;70=0;79=0;83=0;87=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1371" out="1462" id="transition19">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=237/412:889x488:100;5=274/412:889x488:100;6=297/417:889x488:100;7=312/414:889x488:100;14=370/405:889x488:100;20=417/409:889x488:100;22=437/415:889x488:100;23=458/410:889x488:100;25=477/404:889x488:100;26=478/415:889x488:100;29=497/413:889x488:100;31=522/400:889x488:100;49=554/362:899x503:100;53=574/354:918x525:100;66=564/385:918x525:100;75=566/380:918x525:100;78=554/381:918x525:100;87=548/377:918x525:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">10,4;5=10,4;6=10,4;7=10,4;14=-28,3;20=-16,4;22=-16,4;23=-16,4;25=-16,4;26=-16,4;29=-16,4;31=-16,4;42=-28,3;49=-19,3;53=-19,3;66=0;75=-1,5;78=-3,1;86=-7,4;87=-13,4</property>
+   <property name="rotate_y">0;5=0;6=0;7=0;14=0;20=0;22=0;23=0;25=0;26=0;29=0;31=0;42=0;49=0;53=0;66=0;75=0;78=0;86=0;87=0</property>
+   <property name="rotate_z">0;5=0;6=0;7=0;14=0;20=0;22=0;23=0;25=0;26=0;29=0;31=0;42=0;49=0;53=0;66=0;75=0;78=0;86=0;87=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1509" out="1587" id="transition20">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=1318/246:1265x512:100;2=1249/232:1261x509:100;3=1206/225:1260x508:100;5=1148/216:1250x500:100;9=1056/210:1239x490:100;12=1020/208:1231x484:100;13=1008/204:1231x484:100;20=1014/232:1231x484:100;32=1012/220:1231x484:100;35=1016/212:1231x484:100;55=1000/212:1231x484:100;56=946/216:1231x484:100;60=933/219:1231x484:100;68=928/220:1231x484:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-10,4;2=-18,3;3=-22,3;5=-22,3;9=-18;12=-14,9;13=-12,4;20=4,5;32=-12,2;35=-16,4;55=-16,4;56=-4,5;60=1,4;68=13,4</property>
+   <property name="rotate_y">0;2=0;3=0;5=0;9=0;12=0;13=0;20=0;32=0;35=0;55=0;56=0;60=0;68=0</property>
+   <property name="rotate_z">0;2=0;3=0;5=0;9=0;12=0;13=0;20=0;32=0;35=0;55=0;56=180;60=180;68=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1588" out="1767" id="transition21">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-273/-385:2636x1915:100;9=-274/-372:2636x1915:100;15=-238/-331:2636x1915:100;21=-44/-251:2270x1781:100;24=34/-174:2118x1661:100;30=103/-122:2020x1591:100;37=149/-88:1943x1531:100;41=179/-72:1911x1501:100;42=304/-52:1903x1493:100;48=241/-84:1903x1493:100;53=209/-94:1903x1493:100;56=237/-48:1808x1388:100;60=238/-66:1808x1388:100;63=234/-84:1808x1388:100;69=250/-76:1808x1388:100;74=278/-58:1738x1346:100;79=346/-62:1690x1322:100;82=372/-54:1660x1293:100;89=380/-30:1660x1293:100;94=386/-44:1660x1293:100;95=229/-64:1660x1293:100;100=229/-64:1660x1293:100;102=245/-54:1660x1293:100;111=245/-64:1660x1293:100;123=239/-76:1660x1293:100;125=394/-38:1660x1293:100;136=469/-15:1660x1293:100;142=515/13:1660x1293:100;147=599/9:1660x1293:100;150=724/45:1660x1293:100;153=789/59:1660x1293:100;156=927/53:1660x1293:100;161=1074/21:1660x1293:100;165=1185/19:1660x1293:100;169=1304/23:1660x1293:100;173=1463/19:1660x1293:100;179=1555/17:1660x1293:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">9;9=4,5;15=4,5;21=4,5;24=-1,5;30=-1,5;37=1,5;41=1,5;42=1,5;48=1,5;53=1,5;56=1,5;60=-1,5;63=4,5;69=4,5;74=4,5;79=-4,5;82=-4,5;89=-4,5;94=-4,5;95=-22,3;100=-13,4;102=-13,4;111=-25,3;123=-25,3;125=7,4;136=7,4;142=1,5;147=1,5;150=1,5;153=1,5;156=10,4;161=-7,4;165=-13,4;169=-13,4;173=-13,4;179=-13,4</property>
+   <property name="rotate_y">0;9=0;15=0;21=0;24=0;30=0;37=0;41=0;42=0;48=0;53=0;56=0;60=0;63=0;69=0;74=0;79=0;82=0;89=0;94=0;95=0;100=0;102=0;111=0;123=0;125=0;136=0;142=0;147=0;150=0;153=0;156=0;161=0;165=0;169=0;173=0;179=0</property>
+   <property name="rotate_z">180;9=180;15=180;21=180;24=180;30=180;37=180;41=180;42=13,4;48=13,4;53=13,4;56=13,4;60=13,4;63=13,4;69=13,4;74=13,4;79=13,4;82=13,4;89=13,4;94=13,4;95=180;100=180;102=180;111=180;123=180;125=-10,4;136=-10,4;142=-10,4;147=-10,4;150=-10,4;153=-10,4;156=-10,4;161=-10,4;165=-10,4;169=-10,4;173=-10,4;179=-10,4</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1505" out="1508" id="transition22">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=1491/286:1132x532:100;3=1419/264:1132x532:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;3=0</property>
+   <property name="rotate_y">0;3=0</property>
+   <property name="rotate_z">0;3=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1875" out="1918" id="transition23">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=395/552:230x188:100;10=423/558:230x188:100;14=443/559:230x188:100;18=457/554:230x188:100;21=493/554:230x188:100;30=523/545:230x188:100;33=549/545:230x188:100;43=583/543:230x188:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;10=0;14=0;18=0;21=0;30=0;33=0;42=-10,9</property>
+   <property name="rotate_y">0;10=0;14=0;18=0;21=0;30=0;33=0;42=0</property>
+   <property name="rotate_z">0;10=0;14=0;18=0;21=0;30=0;33=0;42=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2042" out="2071" id="transition24">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-138/-255:2180x1372:100;9=87/-248:2180x1372:100;16=446/-228:2180x1372:100;21=630/-276:2180x1372:100;29=786/-205:2180x1372:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-14,9;9=-14,9;16=-14,9;21=-18,9;29=-3</property>
+   <property name="rotate_y">0;9=0;16=0;21=0;29=0</property>
+   <property name="rotate_z">0;9=0;16=0;21=0;29=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1919" out="1948" id="transition25">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-1061/-239:2076x1254:100;3=-967/-230:2076x1254:100;4=-822/-233:2076x1254:100;9=-715/-249:2076x1254:100;13=-640/-231:2076x1254:100;18=-493/-201:2076x1254:100;29=-409/-239:2076x1254:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;3=-12,6;4=-16,9;9=-20,9;13=1;18=1,6;29=3;31=1,7;45=-7</property>
+   <property name="rotate_y">0;3=0;4=0;9=0;13=0;18=0;29=0;31=0;45=0</property>
+   <property name="rotate_z">0;3=0;4=0;9=0;13=0;18=0;29=0;31=0;45=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="1949" out="1964" id="transition26">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-352/7:1586x762:100;15=-337/-4:1586x762:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-12,9;15=-14,9</property>
+   <property name="rotate_y">0;15=0</property>
+   <property name="rotate_z">0;15=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2072" out="2152" id="transition27">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=489/582:292x154:100;2=519/558:292x154:100;4=555/554:292x154:100;7=580/559:292x154:100;12=633/588:292x154:100;17=647/593:292x154:100;18=665/586:292x154:100;20=683/586:292x154:100;23=722/561:292x154:100;25=742/549:292x154:100;30=807/581:292x154:100;33=832/591:292x154:100;41=864/561:292x154:100;45=877/586:292x154:100;49=914/568:292x154:100;51=935/559:292x154:100;58=1012/565:292x154:100;67=1067/588:292x154:100;77=1207/602:292x154:100;78=1238/604:292x154:100;80=1254/590:292x154:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;2=0;4=0;7=0;12=0;17=0;18=0;20=0;23=0;25=0;30=0;33=0;41=0;45=-10,9;49=0;51=3;58=0;67=0;77=0;78=32,8;80=0</property>
+   <property name="rotate_y">0;2=0;4=0;7=0;12=0;17=0;18=0;20=0;23=0;25=0;30=0;33=0;41=0;45=0;49=0;51=0;58=0;67=0;77=0;78=0;80=0</property>
+   <property name="rotate_z">0;2=0;4=0;7=0;12=0;17=0;18=0;20=0;23=0;25=0;30=0;33=0;41=0;45=0;49=0;51=0;58=0;67=0;77=0;78=0;80=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="779" out="826" id="transition28">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-919/-342:3751x2110:100;6=-953/-342:3751x2110:100;26=-983/-372:3751x2110:100;47=-982/-383:3751x2110:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">14,9;6=24,9;26=-22,9;47=-26,9</property>
+   <property name="rotate_y">0;6=0;26=0;47=0</property>
+   <property name="rotate_z">0;6=0;26=0;47=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="827" out="871" id="transition29">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-128/105:2020x1213:100;7=-176/94:1981x1178:100;11=-324/-59:1959x1159:100;15=-387/-130:1938x1140:100;21=-385/-18:1938x1140:100;23=-330/30:1938x1140:100;24=-240/233:1938x1140:100;25=-16/316:1938x1140:100;27=342/106:1938x1140:100;30=528/-240:1938x1140:100;36=873/-471:1938x1140:100;39=1099/-500:1938x1140:100;44=1444/-404:1759x1155:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-14,9;7=-14,9;11=-5,9;15=3;21=16,9;23=12,9;24=10,9;25=6,9;27=-7;30=-1;36=16,9;39=16,9;44=0</property>
+   <property name="rotate_y">0;7=0;11=0;15=0;21=0;23=0;24=0;25=0;27=0;30=0;36=0;39=0;44=0</property>
+   <property name="rotate_z">0;7=0;11=0;15=0;21=0;23=0;24=0;25=0;27=0;30=0;36=0;39=0;44=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2158" out="2177" id="transition30">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-761/-494:2535x1668:100;1=-500/-347:2608x1738:100;4=11/81:2349x1521:100;10=185/234:2184x1261:100;19=128/53:2262x1334:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-12,9;1=-26,9;4=-36,8;10=-42,8;19=-42,8</property>
+   <property name="rotate_y">-46;1=0;4=0;10=0;19=0</property>
+   <property name="rotate_z">18,9;1=0;4=0;10=0;19=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2178" out="2194" id="transition31">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=-591/265:1965x1003:100;6=-629/304:1768x968:100;8=-695/326:1860x1020:100;10=-831/384:1860x1020:100;13=-1086/521:1860x1020:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">0</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">27,9;6=-9;8=-9;10=13,7;13=13,7</property>
+   <property name="rotate_y">-11,8;6=-7,1;8=-7,1;10=-7,1;13=-7,1</property>
+   <property name="rotate_z">-51,7;6=-39,8;8=-39,8;10=-39,8;13=-39,8</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2279" out="2371" id="transition11">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=302/108:1794x1023:100;15=234/38:1794x1023:100;22=50/58:1794x1023:100;38=-139/80:1794x1023:100;41=-144/84:1794x1023:100;42=-153/89:1794x1023:100;44=-274/85:1794x1023:100;58=-232/77:1794x1023:100;73=-188/65:1794x1023:100;80=-536/-152:2306x1424:100;87=-768/-255:2469x1569:100;92=-1048/-340:2752x1833:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">11,5;15=-19,1;22=-19,1;38=-3,8;41=-3,8;42=-3,8;44=-9,9;58=-9,9;73=-9,9;80=0,8;87=10;92=13</property>
+   <property name="rotate_y">0;15=0;22=0;38=0;41=0;42=0;44=0;58=0;73=0;80=0;87=0;92=0</property>
+   <property name="rotate_z">0;15=0;22=0;38=0;41=0;42=0;44=180;58=180;73=180;80=180;87=180;92=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2214" out="2278" id="transition32">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=245/425:1327x573:100;7=391/296:1327x573:100;13=492/282:1363x614:100;21=533/268:1363x614:100;34=544/282:1363x614:100;45=530/286:1363x614:100;64=521/319:1363x614:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">-11,3;7=-20,9;13=-3;21=-3;34=5;45=-7;62=3;65=8,4;71=0</property>
+   <property name="rotate_y">0;7=0;13=0;21=0;34=0;45=0;62=0;65=0;71=0</property>
+   <property name="rotate_z">31,5;7=0;13=0;21=0;34=0;45=0;62=0;65=0;71=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2483" out="2565" id="transition33">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=1053/-259:1920x1080:100;2=955/-230:1920x1080:100;3=896/-230:1920x1080:100;6=851/-249:1920x1080:100;11=753/-260:1920x1080:100;13=697/-245:1920x1080:100;15=655/-252:1920x1080:100;17=491/-235:1920x1080:100;18=440/-225:1920x1080:100;20=395/-198:1920x1080:100;21=398/-193:1920x1080:100;22=318/-203:1920x1080:100;25=293/-210:1920x1080:100;27=254/-220:1920x1080:100;28=212/-234:1920x1080:100;29=212/-235:1920x1080:100;31=161/-244:1920x1080:100;33=129/-252:1920x1080:100;36=10/-252:1920x1080:100;37=5/-244:1920x1080:100;39=-40/-240:1920x1080:100;40=-148/-222:1920x1080:100;41=-156/-205:1920x1080:100;42=-268/-180:1920x1080:100;43=-315/-178:1920x1080:100;46=-357/-172:1933x1091:100;48=-482/-237:1943x1099:100;56=-582/-316:1943x1099:100;61=-627/-337:1943x1099:100;67=-651/-320:1943x1099:100;68=-718/-317:1966x1127:100;70=-747/-349:2012x1183:100;72=-846/-358:2058x1240:100;73=-980/-320:2058x1240:100;74=-999/-315:2058x1240:100;75=-1112/-341:2058x1240:100;77=-1249/-358:2058x1240:100;78=-1339/-358:2058x1240:100;80=-1439/-358:2058x1240:100;82=-1509/-358:2058x1240:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;2=-1,8;3=-2,7;6=-5,4;11=-5,4;13=-5,4;15=-5,4;17=-16,1;18=-16,1;20=-16,1;21=-5,4;22=-3,8;25=0,8;27=1,8;28=2,3;29=2,3;31=2,3;33=2,3;36=2,3;37=4,1;39=7,7;40=9,6;41=11,5;42=3,8;43=-3,8;46=-6,5;48=-8,4;56=-16,1;61=-26,8;67=-11,5;68=-12,1;70=-13,3;72=-14,6;73=-13;74=-11,4;75=-9,9;77=-6,9;78=-5,4;80=-5,4;83=-5,4</property>
+   <property name="rotate_y">0;2=0;3=0;6=0;11=0;13=0;15=0;17=0;18=0;20=0;21=0;22=0;25=0;27=0;28=0;29=0;31=0;33=0;36=0;37=0;39=0;40=0;41=0;42=0;43=0;46=0;48=0;56=0;61=0;67=0;68=0;70=0;72=0;73=0;74=0;75=0;77=0;78=0;80=0;83=0</property>
+   <property name="rotate_z">180;2=180;3=180;6=180;11=180;13=180;15=180;17=180;18=180;20=180;21=180;22=180;25=180;27=180;28=180;29=180;31=180;33=180;36=180;37=180;39=180;40=180;41=180;42=180;43=180;46=180;48=180;56=180;61=180;67=180;68=180;70=180;72=180;73=180;74=180;75=180;77=180;78=180;80=180;83=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2570" out="2669" id="transition34">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=941/618:359x194:100;1=938/618:359x194:100;8=881/612:359x194:100;15=843/614:359x194:100;20=811/622:359x194:100;33=745/624:359x194:100;35=730/624:359x194:100;38=715/621:359x194:100;44=693/617:359x194:100;50=678/636:359x194:100;57=673/621:359x194:100;63=675/604:359x194:100;76=671/611:359x194:100;81=654/624:359x194:100;82=649/631:359x194:100;85=653/688:359x194:100;88=683/710:359x194:100;99=713/702:359x194:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;1=0;8=0;15=0;20=6,9;33=-14,6;35=-14,6;38=-14,6;44=-14,6;50=19,1;57=-0,8;63=-0,8;76=-0,8;81=-0,8;82=-0,8;85=-0,8;88=-0,8;96=-2,3</property>
+   <property name="rotate_y">0;1=0;8=0;15=0;20=0;33=0;35=0;38=0;44=0;50=0;57=0;63=0;76=0;81=0;82=0;85=0;88=0;96=0</property>
+   <property name="rotate_z">180;1=180;8=180;15=180;20=180;33=180;35=180;38=180;44=180;50=180;57=180;63=180;76=180;81=180;82=180;85=180;88=180;96=180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition out="28" id="transition35">
+   <property name="a_track">5</property>
+   <property name="b_track">7</property>
+   <property name="distort">0</property>
+   <property name="geometry">-51/-118:1783x1004:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">2,3</property>
+   <property name="rotate_y">0</property>
+   <property name="rotate_z">180</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition in="2178" out="2213" id="transition36">
+   <property name="a_track">2</property>
+   <property name="b_track">6</property>
+   <property name="distort">0</property>
+   <property name="geometry">0=812/-13:1445x706:100;7=675/-22:1675x848:100;13=580/-37:1810x957:100;20=288/-52:2348x1290:100;23=263/-31:2348x1290:100</property>
+   <property name="fill">1</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">affine</property>
+   <property name="automatic">1</property>
+   <property name="force_track">1</property>
+   <property name="keyed">1</property>
+   <property name="rotate_x">0;7=-4,2;13=-4,2;20=-4,2;23=-4,2</property>
+   <property name="rotate_y">2,4;7=0;13=0;20=0;23=0</property>
+   <property name="rotate_z">3;7=0;13=0;20=0;23=0</property>
+   <property name="shear_x">0</property>
+   <property name="shear_y">0</property>
+   <property name="shear_z">0</property>
+  </transition>
+  <transition id="transition37">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0,9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition38">
+   <property name="a_track">6</property>
+   <property name="b_track">7</property>
+   <property name="version">0,9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition39">
+   <property name="a_track">5</property>
+   <property name="b_track">6</property>
+   <property name="version">0,9</property>
+   <property name="mlt_type">transition</property>
+   <property name="mlt_service">frei0r.cairoblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
